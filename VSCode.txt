@@ -1,0 +1,24 @@
+Auto Close Tag 
+Auto Rename Tag 
+Babel ES6/ES7 
+Beautify 
+Bracket Pair Colorizer 
+change-case 
+Code Runner 
+CSS Peek 
+ESLint 
+Guides 
+HTML Boilerplate 
+Material Theme 
+open in browser 
+Path Intellisense 
+PHP IntelliSense 
+Prettier - Code formatter 
+Project Manager 
+Russian Language Pack for Visual Studio Code 
+TODO Highlight 
+IntelliSense for CSS class names in HTML
+WakaTime 
+
+
+
