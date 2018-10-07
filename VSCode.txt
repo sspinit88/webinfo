@@ -23,11 +23,12 @@ Project Manager  					<- говорит сам за себя
 Russian Language Pack for Visual Studio Code  		<- переводим на русский
 TODO Highlight  					<- подсвечивание TODO
 IntelliSense for CSS class names in HTML 		<-
+HTMLHint 						<- проверка синтаксиса html
 Live Server						<- отображение в реальном времени, в том числе и php
 WakaTime 						<- счетчик времени
 Better Merge						<- облегчение решения конфликтов при работе с GIT
 HTML CSS Support					<- Плагин, который добавит подсказки при написании css свойств в html документе.
-SCSS IntelliSense					<- редактор прекрасно будет предлагать дописать название стиля или параметра по первым буквам
+SCSS IntelliSense // LESS IntelliSense		        <- редактор прекрасно будет предлагать дописать название стиля или параметра по первым буквам
 
 *--*
 PHPStorm
